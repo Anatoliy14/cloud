@@ -1,0 +1,13 @@
+.catalogTitle {
+    text-align: center; /* Центрування тексту */
+    font-family: 'Roboto', sans-serif; /* Використання сучасного шрифту */
+    font-weight: 700; /* Жирний текст */
+    font-size: 2.5rem; /* Розмір тексту */
+    margin: 20px 0; /* Відступи */
+    color: #333; /* Колір тексту */
+    text-transform: uppercase; /* Усі букви великі */
+    letter-spacing: 2px; /* Відстань між літерами */
+    border-bottom: 2px solid #ff5100; /* Підкреслення */
+    display: inline-block; /* Щоб підкреслення займало лише ширину тексту */
+    padding-bottom: 10px; /* Відступ під текстом */
+  }
