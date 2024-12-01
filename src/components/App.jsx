@@ -24,7 +24,7 @@ function App() {
     <CartProvider>
     <Header onCartClick={toggleCart} />
       <main>
-        <h1 className={s.catalogTitle}>Каталог</h1>
+        <h1 className={s.catalogTitle}>Каталогu</h1>
         <ProductList />
       </main>
       <Cart open={isCartOpen} onClose={toggleCart} onOrderClick={toggleOrderModal} />
