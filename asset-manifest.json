@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4a68112.css",
+    "main.js": "/static/js/main.bebffb9f.js",
+    "static/media/logo.png": "/static/media/logo.fff84af13bd923322dd9.png",
+    "static/media/photo_1_2024-11-30_13-26-41.jpg": "/static/media/photo_1_2024-11-30_13-26-41.656d48b0e21de19968ca.jpg",
+    "static/media/photo_2_2024-11-30_13-26-41.jpg": "/static/media/photo_2_2024-11-30_13-26-41.2938927a3987edf99411.jpg",
+    "static/media/photo_7_2024-11-30_13-26-41.jpg": "/static/media/photo_7_2024-11-30_13-26-41.25939d667f07675bd173.jpg",
+    "static/media/photo_5_2024-11-30_13-26-41.jpg": "/static/media/photo_5_2024-11-30_13-26-41.805fb88e034fe92f4977.jpg",
+    "static/media/photo_4_2024-11-30_13-26-41.jpg": "/static/media/photo_4_2024-11-30_13-26-41.57ff79d483173c928c2b.jpg",
+    "static/media/photo_6_2024-11-30_13-26-41.jpg": "/static/media/photo_6_2024-11-30_13-26-41.3ef58de78990caf65b00.jpg",
+    "static/media/photo_8_2024-11-30_13-26-41.jpg": "/static/media/photo_8_2024-11-30_13-26-41.491ed31aee79dadf7086.jpg",
+    "static/media/photo_9_2024-11-30_13-26-41.jpg": "/static/media/photo_9_2024-11-30_13-26-41.68dc5feb42a727b6586d.jpg",
+    "static/media/photo_3_2024-11-30_13-26-41.jpg": "/static/media/photo_3_2024-11-30_13-26-41.b6ade9cbe71516bd46ff.jpg",
+    "index.html": "/index.html",
+    "main.c4a68112.css.map": "/static/css/main.c4a68112.css.map",
+    "main.bebffb9f.js.map": "/static/js/main.bebffb9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a68112.css",
+    "static/js/main.bebffb9f.js"
+  ]
+}
