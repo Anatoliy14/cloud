@@ -13,7 +13,7 @@ import {
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { useCart } from 'react-use-cart';
 // import logo from './img/logo.png';
-import s from './Header.module.scss';
+// import s from './Header.module.scss';
 
 const modalStyle = {
   position: 'absolute',
