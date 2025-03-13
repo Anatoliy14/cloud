@@ -12,6 +12,8 @@ import img6 from './img/photo_6_2024-11-30_13-26-41.jpg'
 import img7 from './img/photo_7_2024-11-30_13-26-41.jpg'
 import img8 from './img/photo_8_2024-11-30_13-26-41.jpg'
 import img9 from './img/photo_9_2024-11-30_13-26-41.jpg'
+import img10 from './img/shopping.webp'
+import img11 from './img/shopping (1).webp'
 
 const products = [
   { id: 1, name: 'Спортивний костюм Lost Mary', price: 2700, image: img1, size: 'S, M L, XL' },
@@ -23,6 +25,8 @@ const products = [
   { id: 7, name: 'Світшот свій принт', price: 1750, image: img7, size: 'S, M L, XL'  },
   { id: 8, name: 'Світшот Elfbar', price: 1700, image: img8, size: 'S, M L, XL'  },
   { id: 9, name: 'Світшот Elfbar', price: 1350, image: img9, size: 'S, M L, XL'  },
+  { id: 10, name: 'перчатки нетрилові чорні', price: 195, image: img10, size: 'S, M L, XL'  },
+  { id: 11, name: 'перчатки латексні Medicom', price: 155, image: img11, size: 'S, M L, XL'  },
 ];
 
 function ProductList() {
