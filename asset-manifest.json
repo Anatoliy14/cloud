@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4a68112.css",
-    "main.js": "/static/js/main.02ba68c1.js",
+    "main.js": "/static/js/main.d0beaf16.js",
     "static/media/logo.png": "/static/media/logo.fff84af13bd923322dd9.png",
     "static/media/photo_1_2024-11-30_13-26-41.jpg": "/static/media/photo_1_2024-11-30_13-26-41.656d48b0e21de19968ca.jpg",
     "static/media/photo_2_2024-11-30_13-26-41.jpg": "/static/media/photo_2_2024-11-30_13-26-41.2938927a3987edf99411.jpg",
@@ -12,12 +12,14 @@
     "static/media/photo_8_2024-11-30_13-26-41.jpg": "/static/media/photo_8_2024-11-30_13-26-41.491ed31aee79dadf7086.jpg",
     "static/media/photo_9_2024-11-30_13-26-41.jpg": "/static/media/photo_9_2024-11-30_13-26-41.68dc5feb42a727b6586d.jpg",
     "static/media/photo_3_2024-11-30_13-26-41.jpg": "/static/media/photo_3_2024-11-30_13-26-41.b6ade9cbe71516bd46ff.jpg",
+    "static/media/shopping.webp": "/static/media/shopping.dca7bb47ee7b87021b91.webp",
+    "static/media/shopping (1).webp": "/static/media/shopping (1).917e485926c0b42da225.webp",
     "index.html": "/index.html",
     "main.c4a68112.css.map": "/static/css/main.c4a68112.css.map",
-    "main.02ba68c1.js.map": "/static/js/main.02ba68c1.js.map"
+    "main.d0beaf16.js.map": "/static/js/main.d0beaf16.js.map"
   },
   "entrypoints": [
     "static/css/main.c4a68112.css",
-    "static/js/main.02ba68c1.js"
+    "static/js/main.d0beaf16.js"
   ]
 }
